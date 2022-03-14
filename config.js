@@ -1,7 +1,7 @@
 const CONFIG = {
     titleWeb: 'To the one & only',
     introTitle: 'Hello Hoàng',
-    introDesc: 'Happy White Valentine's Day',
+    introDesc: 'Happy White Valentines Day',
     btnIntro: 'Click here ._.',
     title: 'Hoàng có gì muốn nói với em không?',
     desc: 'I Một điều gì đó... ',

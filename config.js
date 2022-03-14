@@ -1,5 +1,5 @@
 const CONFIG = {
-    titleWeb: 'To the one & only',
+    titleWeb: "To the one & only",
     introTitle: 'Hello Hoàng',
     introDesc: 'Happy White Valentines Day',
     btnIntro: 'Click here ._.',

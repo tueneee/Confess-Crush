@@ -10,7 +10,7 @@ const CONFIG = {
     question: 'I miss u muchhh',
     btnReply: 'Send her',
     reply: 'Well,I miss u,too',
-    mess: 'Em biết mà =)). Thương thương 🌷',
+    mess: 'Em biết mà =)). Thương thương',
     messDesc: 'Hoàng mau hết bệnh nha',
     btnAccept: '❤️',
     messLink: 'https://m.me/tiiviviane.155'
